@@ -1,2 +1,0 @@
-# thuchanh
-thuc hanh
